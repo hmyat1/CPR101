@@ -1,0 +1,27 @@
+*** Start of Converting Strings to long Demo ***
+Type the long numeric string (q - to quit):
+123456
+Converted number is 123456
+Type the long numeric string (q - to quit):
+99999999999999
+Converted number is 99999999999999
+Type the long numeric string (q - to quit):
+abc123456
+Converted number is 0
+Type the long numeric string (q - to quit):
+!@#$%^&
+Converted number is 0
+Type the long numeric string (q - to quit):
+1.1111111111
+Converted number is 1
+Type the long numeric string (q - to quit):
+version3
+Converted number is 0
+Type the long numeric string (q - to quit):
+q
+*** End of Converting Strings to long Demo ***
+
+
+
+...Program finished with exit code 0
+Press ENTER to exit console.
